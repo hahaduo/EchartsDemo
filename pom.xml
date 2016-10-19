@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>groupId</groupId>
-    <artifactId>demo1</artifactId>
+    <artifactId>EchartsDemo</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
